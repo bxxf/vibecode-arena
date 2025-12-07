@@ -1,4 +1,4 @@
-name = "vibecode-arena"
+name = "vibecode-arena-try"
 main = "worker/src/index.ts"
 compatibility_date = "2024-12-01"
 
